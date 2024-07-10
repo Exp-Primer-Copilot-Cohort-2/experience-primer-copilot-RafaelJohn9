@@ -2,8 +2,8 @@
  * 
  * @param {first num} a 
  * @param {second num} b 
- * @returns {the sum}
+ * @returns {Nothing but logs out a + b}
  */
 const calculateNumbers = (a, b)=> {
-    return (a + b);
+    console.log (a + b);
 };
