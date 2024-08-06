@@ -1,9 +1,3 @@
-/**
- * 
- * @param {first num} a 
- * @param {second num} b 
- * @returns {Nothing but logs out a + b}
- */
-const calculateNumbers = (a, b)=> {
-    console.log (a + b);
-};
+function calculateNumbers(var1, var2){
+    console.log(var1 + var2)
+}
